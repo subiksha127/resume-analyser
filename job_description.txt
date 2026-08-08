@@ -1,0 +1,19 @@
+Job Title: Python Developer
+
+We are looking for a Python Developer.
+
+Must Have Skills:
+Python
+SQL
+
+Preferred Skills:
+Machine Learning
+Data Structures
+
+Good to Have:
+Git
+Communication
+Problem Solving
+
+Experience:
+0-2 Years

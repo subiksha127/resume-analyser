@@ -1,0 +1,11 @@
+Name: Hari
+
+Skills:
+Python
+SQL
+Git
+Java
+Communication
+
+Projects:
+Library Management System

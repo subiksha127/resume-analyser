@@ -1,0 +1,12 @@
+Name: Priya
+
+Skills:
+Python
+SQL
+Machine Learning
+Data Structures
+Git
+Communication
+
+Projects:
+AI Resume Screening System
